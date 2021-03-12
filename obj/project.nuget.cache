@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0TiewW9ojfzFuOSVngay7zI8UyVhYczNMe8QAijUngs3QNDZ0dHQRyCB63dyCLcJaJKPOro879b3A+c/4JPV+w==",
+  "dgSpecHash": "L99EpVKuZ9GcysR8X/s9KTUdjscjxqOhH59OyX1aGqM0mHudoeDvnsxE20hM8jLXr9wIjKipCMirDrFn5zQ3JQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Desktop\\ASP.NET Core\\eShopSolution\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
